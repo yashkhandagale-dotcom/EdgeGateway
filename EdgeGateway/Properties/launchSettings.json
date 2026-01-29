@@ -36,6 +36,10 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development",
+      "INFLUX_TOKEN": "B4OpZSWDLfrSfCrPkRFXRPz09lghdpGfkoMmIZDfrYfVaDA9AoAaYCISqrxgDxtdDP5ltzQcHTDHJDXai5ELDg=="
     }
   }
 }

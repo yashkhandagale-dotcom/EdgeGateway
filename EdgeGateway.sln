@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeGateway", "EdgeGateway\EdgeGateway.csproj", "{7A25212C-A097-4044-974E-1D30B44232A9}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeGateway.Application", "EdgeGateway.Application\EdgeGateway.Application.csproj", "{D22BFCD6-1572-4FCD-ACDA-89A11795760E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeGateway.Infrastructure", "EdgeGateway.Infrastructure\EdgeGateway.Infrastructure.csproj", "{DE20484C-E108-44F3-AD45-3611AB046E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeGateway.RabbitMqTest", "EdgeGateway.RabbitMqTest\EdgeGateway.RabbitMqTest.csproj", "{704E2CC2-504E-4FC2-94E9-B6B2DC6BDFDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DE20484C-E108-44F3-AD45-3611AB046E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE20484C-E108-44F3-AD45-3611AB046E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE20484C-E108-44F3-AD45-3611AB046E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704E2CC2-504E-4FC2-94E9-B6B2DC6BDFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704E2CC2-504E-4FC2-94E9-B6B2DC6BDFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704E2CC2-504E-4FC2-94E9-B6B2DC6BDFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704E2CC2-504E-4FC2-94E9-B6B2DC6BDFDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
